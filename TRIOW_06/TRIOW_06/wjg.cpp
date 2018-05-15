@@ -42,7 +42,7 @@ int main()
 
 	camera cam;
 
-	//随机数
+	//随机数，每个像素点的区域是以像素中心点为中心向外距离为1的范围
 	default_random_engine reng;
 	uniform_real_distribution<float> uni_dist(0.0f, 1.0f);
 
