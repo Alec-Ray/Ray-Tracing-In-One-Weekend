@@ -1,0 +1,9 @@
+﻿  wjg.cpp
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\camera.h(21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_10\rtiow_10\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  RTIOW_10.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_10\Debug\RTIOW_10.exe
+  RTIOW_10.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_10\Debug\RTIOW_10.pdb (Partial PDB)
