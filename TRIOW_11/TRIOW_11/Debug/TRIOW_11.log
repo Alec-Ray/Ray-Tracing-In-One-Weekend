@@ -1,9 +1,0 @@
-﻿  wjg.cpp
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\camera.h(35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_11\triow_11\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  TRIOW_11.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\TRIOW_11\Debug\TRIOW_11.exe
-  TRIOW_11.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\TRIOW_11\Debug\TRIOW_11.pdb (Partial PDB)
