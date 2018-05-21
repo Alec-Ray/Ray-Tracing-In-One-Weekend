@@ -59,7 +59,7 @@ vec3 Color(const ray& r, hitable *world, int depth)
 int main()
 {
 	ofstream outfile;
-	outfile.open("IMG2.ppm");
+	outfile.open("IMG.ppm");
 
 	int nx = 800;
 	int ny = 400;

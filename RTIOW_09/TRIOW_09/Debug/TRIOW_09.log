@@ -1,8 +1,8 @@
 ﻿  wjg.cpp
-c:\c++practice\raytracinginoneweekend\triow_09\triow_09\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_09\triow_09\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_09\triow_09\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_09\triow_09\material.h(19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++practice\raytracinginoneweekend\triow_09\triow_09\material.h(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  TRIOW_09.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\TRIOW_09\Debug\TRIOW_09.exe
-  TRIOW_09.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\TRIOW_09\Debug\TRIOW_09.pdb (Partial PDB)
+c:\c++practice\raytracinginoneweekend\rtiow_09\triow_09\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_09\triow_09\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_09\triow_09\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_09\triow_09\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_09\triow_09\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  TRIOW_09.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_09\Debug\TRIOW_09.exe
+  TRIOW_09.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_09\Debug\TRIOW_09.pdb (Partial PDB)

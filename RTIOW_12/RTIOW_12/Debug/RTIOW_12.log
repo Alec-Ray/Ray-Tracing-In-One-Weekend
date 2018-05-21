@@ -1,0 +1,20 @@
+﻿  wjg.cpp
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\vec3.h(56): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\vec3.h(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\hitable_list.h(21): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\camera.h(35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\material.h(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\material.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(70): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(70): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(72): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(81): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(88): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(89): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(93): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(100): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(101): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++practice\raytracinginoneweekend\rtiow_12\rtiow_12\wjg.cpp(126): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  RTIOW_12.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_12\Debug\RTIOW_12.exe
+  RTIOW_12.vcxproj -> C:\c++Practice\rayTracingInOneWeekend\RTIOW_12\Debug\RTIOW_12.pdb (Partial PDB)
